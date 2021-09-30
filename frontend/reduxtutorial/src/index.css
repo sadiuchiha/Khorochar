@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: aquamarine;
+  color: black;
+  font-family: "Noto Sans Display",sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  color: #791479;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
